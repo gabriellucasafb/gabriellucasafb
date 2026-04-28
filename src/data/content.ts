@@ -17,7 +17,6 @@ export const meta = {
   /** Parágrafos do resumo (após a saudação): strings, `{ strong }` ou `{ text, href }`. */
   introParagraphs: [
     [
-      "",
       { strong: "software engineer" },
       " no sertão do nordeste, construindo sistemas em produção para indústria, saúde ocupacional e IA aplicada. Atualmente na ",
       {
@@ -158,9 +157,6 @@ export const projects: Project[] = [
   period: "2026",
   imageOrientation: "portrait",
   imagePosition: "bottom",
-  gallery: [],
-  galleryOrientation: [],
-  galleryPosition: [],
 },
 {
   slug: "controlgesso",

@@ -144,7 +144,7 @@ export function Projects() {
             id="minor-projects-heading"
             className="mb-2 text-xl font-medium tracking-tight text-ink sm:mb-2.5 sm:text-2xl"
           >
-            Projetos menores
+            Outros projetos
           </h2>
           <ul className="grid list-none gap-3 p-0 sm:grid-cols-2 sm:gap-4">
             {minorProjects.map((item) => (
