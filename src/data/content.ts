@@ -148,16 +148,49 @@ export const projects: Project[] = [
     galleryOrientation: ["portrait", "portrait", "portrait"],
     galleryPosition: ["top", "top", "top"],
   },
+
+{
+  slug: "smartgesso",
+  title: "SmartGesso",
+  role: "Mapeamento de Processo",
+  lead: "Sistema de automação e gestão industrial com balança inteligente, sensor de temperatura e rastreabilidade em tempo real.",
+  hint: "Polo gesseiro do Araripe.",
+  period: "2026",
+  imageOrientation: "portrait",
+  imagePosition: "bottom",
+  gallery: [],
+  galleryOrientation: [],
+  galleryPosition: [],
+},
+{
+  slug: "controlgesso",
+  title: "ControlGesso",
+  role: "Mapeamento de Processo",
+  lead: "Sistema de gestão industrial com balança inteligente e rastreabilidade de insumos por lote.",
+  hint: "Polo gesseiro do Araripe.",
+  period: "2026",
+  image: "/projects/mapeamento-control.jpeg",
+  imageOrientation: "portrait",
+  imagePosition: "bottom",
+  gallery: [
+    "/projects/mapeamento-control1.jpeg",
+    "/projects/mapeamento-control2.jpeg",
+    "/projects/mapeamento-control3.jpeg",
+  ],
+  galleryOrientation: ["portrait", "portrait", "portrait"],
+  galleryPosition: ["top", "top", "top"],
+},
 ]
 
 /** Projetos de menor escopo — `href` (link) e `github` opcionais. */
 export const minorProjects: MinorProject[] = [
-  {
-    title: "Perfil GitHub (README)",
+      {
+    title: "Manihot",
     role: "Desenvolvedor",
     description:
-      "README de perfil com apresentação pessoal, links e identidade profissional.",
-    github: "https://github.com/gabriellucasafb/gabriellucasafb",
+      "Landing institucional para projeto de soluções com manipueira e valor da proposta.",
+    href: "https://manihot-three.vercel.app/",
+    github: "https://github.com/manihot1/manihot",
   },
   {
     title: "Manivis",
