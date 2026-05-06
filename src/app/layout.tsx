@@ -22,11 +22,13 @@ export const metadata: Metadata = {
     description: meta.seo.description,
     url: meta.seo.url,
     type: "website",
+    images: [{ url: meta.seo.ogImage, width: 1200, height: 630 }],
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: meta.seo.title,
     description: meta.seo.description,
+    images: [meta.seo.ogImage],
   },
   robots: {
     index: true,

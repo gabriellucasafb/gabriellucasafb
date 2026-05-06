@@ -42,6 +42,7 @@ export const meta = {
     description:
       "Sistemas em produção no sertão do Nordeste — indústria, saúde ocupacional e IA. Starke Vision. Brasil.",
     url: "https://gabriellucasafb.com.br",
+    ogImage: "https://gabriellucasafb.com.br/img/seo.png",
   },
 }
 
