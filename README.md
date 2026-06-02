@@ -1,23 +1,36 @@
-<div align="center">
-  <p align="center">
-    <img src="https://i.pinimg.com/736x/2d/a9/99/2da9992d7133933448ec07282c70351c.jpg" alt="Banner" width="60%">
-  </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellucasafb/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriellucasafb/)
 
-</div>
-
-----
 
 <p align="left">
-  <img src="https://i.pinimg.com/736x/7e/b5/83/7eb5836614cfad09555da344d3bead01.jpg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <code>> print("Hello World! I am gabriel.")</code>
   <p>
   sou <b>software engineer</b> no sertão do Nordeste, construindo sistemas em produção para indústria, saúde ocupacional e IA aplicada. atualmente, atuo na <a href="https://starkevision.com.br" target="_blank">Starke Vision</a>.
-  <br><br>
+
    Antes, estagiei na Receita Federal. Tenho interesse crescente em pesquisa e sistemas inteligentes.
   </div>
-<br clear="right">
 
+## ㅤ
+<div align="left">
+  <samp>/stacks</samp>
+  <div>
+    <samp>
+      <ul>
+        <li><em><b>Languages & Core:</b> PHP, TypeScript, Python.</em></li>
+        <li><em><b>Backend & Infra:</b> Laravel, Node.js, Docker, PostgreSQL</em></li>
+        <li><em><b>Frontend:</b> Vue.js, React, Next.js, TailwindCSS.</em></li>
+        <li><em><b>Currently focusing on:</b> Distributed systems, AI automation and applied LLMs.</em></li>
+      </ul>
+    </samp>
+  </div>
+</div>
+
+## ㅤ
+<div align="left">
+  <samp>/links</samp>
+  <div>
+    <samp>
+      <em>[ <a href="https://www.linkedin.com/in/gabriellucasafb/">linkedin</a> ] [ <a href="https://www.instagram.com/gabriellucasafb/)">instagram</a>] [ <a href="https://discordapp.com/users/310255208758509570">discord</a> ]</em>
+    </samp>
+  </div>
+</div>
