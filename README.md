@@ -30,7 +30,7 @@
   <samp>/links</samp>
   <div>
     <samp>
-      <em>[ <a href="https://www.linkedin.com/in/gabriellucasafb/">linkedin</a> ] [ <a href="https://www.instagram.com/gabriellucasafb/)">instagram</a>] [ <a href="https://discordapp.com/users/310255208758509570">discord</a> ]</em>
+      <em>[ <a href="https://www.linkedin.com/in/gabriellucasafb/">linkedin</a> ] [ <a href="https://www.instagram.com/gabriellucasafb/)">instagram</a> ] [ <a href="https://discordapp.com/users/310255208758509570">discord</a> ]</em>
     </samp>
   </div>
 </div>
