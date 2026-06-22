@@ -5,9 +5,7 @@
   <div>
   <code>> print("Hello World! I am gabriel.")</code>
   <p>
-  sou <b>software engineer</b> no sertão do Nordeste, construindo sistemas em produção para indústria, saúde ocupacional e IA aplicada. atualmente, atuo na <a href="https://starkevision.com.br" target="_blank">Starke Vision</a>.
-
-   Antes, estagiei na Receita Federal. Tenho interesse crescente em pesquisa e sistemas inteligentes.
+  sou <b>software engineer</b>, construindo sistemas em produção para indústria, saúde ocupacional e IA aplicada. atualmente, atuo na <a href="https://starkevision.com.br" target="_blank">Starke Vision</a>.
   </div>
 
 ## ㅤ
